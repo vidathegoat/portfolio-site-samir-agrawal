@@ -26,7 +26,7 @@ export const profile = {
     /file/d/<id>/view share URL and drop it in here.
   */
   resumeUrl:
-    "https://drive.google.com/uc?export=download&id=1WAsFypAZmIQ_71qLEziUw_BWtMyVPLnc",
+    "https://drive.google.com/uc?export=download&id=1MWe46I7D0A1qMk8EKsOzCzXSa3swE5Ru",
 } as const;
 
 export const socials: SocialLink[] = [
